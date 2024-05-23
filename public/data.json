@@ -1,0 +1,147 @@
+[
+  {
+    "picture": "https://i.ibb.co/JxCdThq/Rectangle-4287-2.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "description": "Transform your living space with our Home Decor Set. This beautifully curated collection includes a range of decor items that will add style and personality to your home. From elegant vases to eye-catching wall art, each piece is carefully selected to create a cohesive and inviting atmosphere.The Home Decor Set is not just about aesthetics; it's also about quality. Every item is made from premium materials to ensure durability and longevity. Whether you're decorating your living room, bedroom, or any other space, this set has everything you need to make your home truly special. ",
+    "price": 199.99,
+    "category_bg": "#27ae60",
+    "card_bg": "#f8704723",
+    "text_color": "#f8703e",
+    "btn_bg": "#f8704734",
+    "id": 3
+  },
+  {
+    "picture": "https://i.ibb.co/MRjTGwS/Rectangle-4284.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "description": "Discover the secret to radiant beauty with our Beauty Essentials Kit. This comprehensive kit includes a handpicked selection of beauty products that are essential for your daily skincare and makeup routine. From cleansers and moisturizers to makeup brushes and palettes, we've got you covered.Our Beauty Essentials Kit is suitable for all skin types and comes in an elegant and convenient carrying case. Whether you're a makeup novice or a beauty pro, this kit has everything you need to look and feel your best.",
+    "price": 449.99,
+    "category_bg": "#e67e22",
+    "card_bg": "#0052ff26",
+    "text_color": "#0052FF",
+    "btn_bg": "#0052ff33",
+    "id": 4
+  },
+  {
+    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
+    "title": "Good education",
+    "category": "Education",
+    "description": "The Smartphone  is the latest addition to our electronic gadgets collection. This powerful and feature-packed smartphone is designed to meet all your communication and entertainment needs. With a stunning high-resolution display, a powerful processor, and a long-lasting battery, this smartphone offers an exceptional user experience. Whether you're a professional who needs to stay connected on the go or a multimedia enthusiast who loves to watch videos and play games, the Smartphone XYZ has you covered. It comes with a high-quality camera that captures stunning photos and videos, and it supports fast charging for added convenience. Stay productive and entertained with this top-of-the-line smartphone at an affordable price of  399.99. ",
+    "price": 399.99,
+    "category_bg": "",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A",
+    "btn_bg": "#ff424933",
+    "id": 1
+  },
+  {
+    "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "description": "Elevate your fashion game with our Designer Dress collection. This exquisite piece of clothing is a perfect blend of style and comfort. Made from premium materials, it offers a luxurious feel and a flattering fit. Whether you're attending a special occasion or just want to look your best every day, this Designer Dress is a must-have in your wardrobe.  The attention to detail and craftsmanship put into this dress is evident in every stitch. It's available in various sizes and colors to suit your preferences. With a price of  299.99, it's an affordable way to add a touch of elegance to your wardrobe.",
+    "price": 299.99,
+    "category_bg": "#e74c3c",
+    "card_bg": "#7ac23f27",
+    "text_color": "#79C23F",
+    "btn_bg": "#7ac23f34",
+    "id": 2
+  },
+
+  {
+    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
+    "title": "Good education",
+    "category": "Education",
+    "description": "Our Educational Toys Set is designed to stimulate young minds and promote learning through play. This thoughtfully crafted set includes a variety of educational toys that are not only fun but also aid in cognitive development. Each toy in this set is made from child-friendly materials and is designed to be engaging and educational. From puzzles that improve problem-solving skills to interactive books that enhance literacy, this set has it all. It's an excellent gift for children of all ages.",
+    "price": 339.99,
+    "category_bg": "#3498db",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A",
+    "btn_bg": "#ff424933",
+    "id": 5
+  },
+  {
+    "picture": "https://i.ibb.co/MRjTGwS/Rectangle-4284.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "description": "Take control of your health and well-being with our Health and Wellness Bundle. This comprehensive bundle includes a range of products designed to support a healthy lifestyle. From vitamins and supplements to fitness equipment, we've got you covered.\n\nEach item in this bundle is carefully selected for its quality and effectiveness. Whether you're looking to boost your immune system, stay active at home, or improve your overall well-being, this bundle has everything you need. It's a great investment in your health, priced at just  999.99.",
+    "price": 999.99,
+    "category_bg": "#27ae60",
+    "card_bg": "#0052ff26",
+    "text_color": "#0052FF",
+    "btn_bg": "#0052ff33",
+    "id": 6
+  },
+  {
+    "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "description": "Upgrade your wardrobe with our Fashionable Clothing Collection. This curated collection features the latest trends and stylish pieces that will enhance your personal style. From casual wear to formal attire, we've got it all. Each clothing item in this collection is designed with comfort and fashion in mind. We offer a wide range of sizes and styles to suit your preferences. With prices starting at  29.99, you can revamp your wardrobe without breaking the bank. ",
+    "price": 289.99,
+    "category_bg": "#e74c3c",
+    "card_bg": "#7ac23f27",
+    "text_color": "#79C23F",
+    "btn_bg": "#7ac23f34",
+    "id": 7
+  },
+  {
+    "picture": "https://i.ibb.co/JxCdThq/Rectangle-4287-2.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "description": "Indulge in the goodness of our Nourishing Food Basket. This carefully curated basket includes a variety of wholesome and delicious food items that are perfect for your pantry. From organic grains and legumes to gourmet snacks, we've selected the best for you. Each food item in this basket is chosen for its quality and flavor. Whether you're a food enthusiast or looking to stock up on essentials, this basket has it all. Priced at just  49.99, it's a great value for the variety and quality it offers. ",
+    "price": 549.99,
+    "category_bg": "#e74c3c",
+    "card_bg": "#f8704723",
+    "text_color": "#f8703e",
+    "btn_bg": "#f8704734",
+    "id": 8
+  },
+  {
+    "picture": "https://i.ibb.co/hF71VJ6/Rectangle-4287-1.png",
+    "title": "Good education",
+    "category": "Education",
+    "description": "Immerse yourself in the world of education with our Education category. Whether you're a student looking for textbooks, a teacher in search of teaching materials, or an enthusiast eager to learn, our Education category has you covered.We offer a wide range of educational resources, including textbooks, online courses, educational toys, and more. Explore our collection to enhance your knowledge and skills. Learning has never been more accessible and enjoyable. Prices vary depending on the resource.",
+    "price": 200,
+    "category_bg": "#27ae60",
+    "card_bg": "#ff444a26",
+    "text_color": "#FF444A",
+    "btn_bg": "#ff424933",
+    "id": 12
+  },
+  {
+    "picture": "https://i.ibb.co/jVW05Xg/Rectangle-4287.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "description": "This is a real product description for item 9. It is a high-quality item designed to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sagittis tellus eu neque ullamcorper, at rhoncus ex eleifend. Fusce mattis fringilla sapien nec facilisis. Nullam at justo in velit consequat cursus. Phasellus bibendum purus sit amet massa tristique rhoncus. Nulla facilisi. Praesent ut malesuada nulla. Fusce ac magna dolor. Donec quis libero in metus faucibus vehicula in nec justo. Suspendisse vehicula non tortor vel suscipit. In hac habitasse platea dictumst.  ",
+    "price": 199.99,
+    "category_bg": "#3498db",
+    "card_bg": "#7ac23f27",
+    "text_color": "#79C23F",
+    "btn_bg": "#7ac23f34",
+    "id": 9
+  },
+  {
+    "picture": "https://i.ibb.co/MRjTGwS/Rectangle-4284.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "description": "This is a real product description for item 10. It is a high-quality item designed to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sagittis tellus eu neque ullamcorper, at rhoncus ex eleifend. Fusce mattis fringilla sapien nec facilisis. Nullam at justo in velit consequat cursus. Phasellus bibendum purus sit amet massa tristique rhoncus. Nulla facilisi. Praesent ut malesuada nulla. Fusce ac magna dolor. Donec quis libero in metus faucibus vehicula in nec justo. Suspendisse vehicula non tortor vel suscipit. In hac habitasse platea dictumst. ",
+    "price": 199.99,
+    "category_bg": "#3498db",
+    "card_bg": "#0052ff26",
+    "text_color": "#0052FF",
+    "btn_bg": "#0052ff33",
+    "id": 10
+  },
+  {
+    "picture": "https://i.ibb.co/JxCdThq/Rectangle-4287-2.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "description": "This is a real product description for item 11. It is a high-quality item designed to meet your needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sagittis tellus eu neque ullamcorper, at rhoncus ex eleifend. Fusce mattis fringilla sapien nec facilisis. Nullam at justo in velit consequat cursus. Phasellus bibendum purus sit amet massa tristique rhoncus. Nulla facilisi. Praesent ut malesuada nulla. Fusce ac magna dolor. Donec quis libero in metus faucibus vehicula in nec justo. Suspendisse vehicula non tortor vel suscipit. In hac habitasse platea dictumst. ",
+    "price": 399.99,
+    "category_bg": "#3498db",
+    "card_bg": "#f8704723",
+    "text_color": "#f8703e",
+    "btn_bg": "#f8704734",
+    "id": 11
+  }
+]
